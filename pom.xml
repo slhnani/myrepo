@@ -52,7 +52,7 @@
             <groupId>javax.servlet</groupId>
             <artifactId>javax.servlet-api</artifactId>
             <version>3.0.1</version>
-            <scope>provided</scope>
+            <scope>test</scope>
         </dependency>
         <!-- The huge set of awesome Java libraries are available as such 
             for Vaadin developers, you should take the advantage of those. In this app 
